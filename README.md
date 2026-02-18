@@ -10,7 +10,7 @@ Modern ESLint 9+ configuration with Flat Config support for JavaScript, TypeScri
 
 ## 👀 How to use?
 
-eslint.config.js:
+eslint.config.js
 ```bash
 import ESLintConfig from 'wasdwave-eslint'
 
